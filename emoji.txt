@@ -14,5 +14,5 @@
         ":us:":"<img class='emoji' src='/emoji/us.png'>",
         ":in:":"<img class='emoji' src='/emoji/in.png'>",
         ":gem:":"<img class='emoji' src='/emoji/gem.png'>",
-        ":brain:":"<img class='emoji' src='/emoji/brain.png'>",
+        ":brain:":"<img class='emoji' src='/emoji/brain.png'>"
     }
