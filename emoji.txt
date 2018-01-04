@@ -1,0 +1,18 @@
+{
+        "&gt;:(":"<img class='emoji' src='/emoji/angry.png'>",
+        ":)":"<img class='emoji' src='/emoji/smile.png'>",
+        ":D":"<img class='emoji' src='/emoji/bigsmile.png'>",
+        ";)":"<img class='emoji' src='/emoji/wink.png'>",
+        "XD":"<img class='emoji' src='/emoji/laugh.png'>",
+        "-_-":"<img class='emoji' src='/emoji/neutral.png'>",
+        ":]":"<img class='emoji' src='/emoji/robot.png'>",
+        "D:":"<img class='emoji' src='/emoji/verysad.png'>",
+        "B)":"<img class='emoji' src='/emoji/sunglasses.png'>",
+        ":P":"<img class='emoji' src='/emoji/tounge.png'>",
+        ":O":"<img class='emoji' src='/emoji/gasp.png'>",
+        ":(":"<img class='emoji' src='/emoji/sad.png'>",
+        ":us:":"<img class='emoji' src='/emoji/us.png'>",
+        ":in:":"<img class='emoji' src='/emoji/in.png'>",
+        ":gem:":"<img class='emoji' src='/emoji/gem.png'>",
+        ":brain:":"<img class='emoji' src='/emoji/brain.png'>",
+    }
