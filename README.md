@@ -7,6 +7,8 @@ This repository contains the emoji map file that KidzIdeazTECH pulls from. Want 
 ## Use KidzIdeazTECH Emoji in your own app
 We are in the process of converting all emoji to Base64. Some emoji may not work, unless you download them from KidzIdeazTECH and put them in the same location on your server.
 
+**WARNING: Some emoji's have been downloaded from the premium website flaticon.com, for which beta.kidzideaz.tech has a licence. Do not use the pre-installed emoji in your own app without purchasing a premium subscription**
+
 ### Installation
 1. Put the contents of emoji.js somewhere where the code you want to execute can get to it
 2. Run Emoji("string to emojify")
