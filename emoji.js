@@ -4,8 +4,7 @@
 Emoji = function (str) {
     try
     {
-        const result = HTTP.call('GET', 'https://raw.githubusercontent.com/kidzideaztech/emoji/master/emoji.txt');
-        // !!HEADS UP!! You should change the URL to https://raw.githubusercontent.com/kidzideaztech/emoji/master/emojiFREE.txt if you don't have a premium flaticon licence
+        const result = HTTP.call('GET', 'https://raw.githubusercontent.com/kidzideaztech/emoji/master/emojiFREE.txt');
 
         map = JSON.parse(result.content);
         
