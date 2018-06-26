@@ -17,6 +17,6 @@
         "<3":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/heart.svg'>",
         ":html:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/html.png'>",
         ":javascript:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/javascript.png'>",
-        ":horse:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/horse.png'>",
+        ":horse:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/horseface.png'>",
         ":horseprancing:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/prancinghorse.png'>"
 }
