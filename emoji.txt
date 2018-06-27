@@ -14,7 +14,7 @@
         ":brain:":"<img class='emoji' src='/emoji/brain.png'>",
         ":us:":"<img class='emoji' src='/emoji/us.png'>",
         ":binbin:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/brandon2.gif'>",
-        "<3":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/heart.svg'>",
+        "&lt;3":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/heart.svg'>",
         ":html:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/html.png'>",
         ":javascript:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/javascript.png'>",
         ":horse:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/horseface.png'>",
