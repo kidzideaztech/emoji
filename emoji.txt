@@ -5,7 +5,11 @@
         "XD":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/laughing.png'>",
         ":cheerful:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/cheerful.png'>",
         ":eyeroll:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/umm.png'>",
-        "-_-":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/neutral.png'>",
+        ":|":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/neutral.png'>",
+        ":/":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/emoji_u1f615.png'>",        
+        "S|":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/emoji_u1f928.png'>",                
+        "XO":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/emoji_u1f628.png'>",
+        ":woah:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/emoji_u1f92f.png'>",
         ":]":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/robot.png'>",
         "D:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/crying.png'>",
         "&gt;:(":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/angry.png'>",        
@@ -18,5 +22,6 @@
         ":html:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/html.png'>",
         ":javascript:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/javascript.png'>",
         ":horse:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/horseface.png'>",
-        ":horseprancing:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/prancinghorse.png'>"
+        ":horseprancing:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/prancinghorse.png'>",
+        ":turt:":"<img class='emoji' src='https://d3mzhvul75soob.cloudfront.net/emoji/emoji_u1f422.png'>"
 }
