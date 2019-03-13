@@ -17,7 +17,6 @@
         "B)":"<img class='emoji' src='https://e.kidz.cloud/sunglasses.png'>",
         ":brain:":"<img class='emoji' src='/emoji/brain.png'>",
         ":us:":"<img class='emoji' src='/emoji/us.png'>",
-        ":binbin:":"<img class='emoji' src='https://e.kidz.cloud/brandon2.gif'>",
         "&lt;3":"<img class='emoji' src='https://e.kidz.cloud/heart.svg'>",
         ":html:":"<img class='emoji' src='https://e.kidz.cloud/html.png'>",
         ":javascript:":"<img class='emoji' src='https://e.kidz.cloud/javascript.png'>",
