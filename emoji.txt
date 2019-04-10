@@ -1,13 +1,29 @@
 [
         {
-          name:":smile:"
-          src:"https://e.kidz.cloud/slightsmile.png",
+          name:":grin:"
+          src:"slightsmile.png",
           alias:[":)"]
         },
-        ":D":"<img class='emoji' src='https://e.kidz.cloud/bigsmile.png'>",
-        ";)":"<img class='emoji' src='https://e.kidz.cloud/wink.png'>",
-        "XD":"<img class='emoji' src='https://e.kidz.cloud/laughing.png'>",
-        ":cheerful:":"<img class='emoji' src='https://e.kidz.cloud/cheerful.png'>",
+        {
+          name:":smile:",
+          src:"bigsmile.png",
+          alias:[":D"]
+        },
+        {
+          name:":wink:",
+          src:"wink.png",
+          alias:[";)"]
+        },
+        {
+          name:":laugh:",
+          src:"laughing.png",
+          alias:["XD"]
+        },
+        {
+          name:":cheerful:",
+          src:"cheerful.png",
+          alias:[]
+        },
         ":eyeroll:":"<img class='emoji' src='https://e.kidz.cloud/umm.png'>",
         ":|":"<img class='emoji' src='https://e.kidz.cloud/neutral.png'>",
         ":/":"<img class='emoji' src='https://e.kidz.cloud/well.png'>",        
