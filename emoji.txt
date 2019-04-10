@@ -1,5 +1,9 @@
-{
-        ":)":"<img class='emoji' src='https://e.kidz.cloud/slightsmile.png'>",
+[
+        {
+          name:":smile:"
+          src:"https://e.kidz.cloud/slightsmile.png",
+          alias:[":)"]
+        },
         ":D":"<img class='emoji' src='https://e.kidz.cloud/bigsmile.png'>",
         ";)":"<img class='emoji' src='https://e.kidz.cloud/wink.png'>",
         "XD":"<img class='emoji' src='https://e.kidz.cloud/laughing.png'>",
@@ -23,4 +27,4 @@
         ":horse:":"<img class='emoji' src='https://e.kidz.cloud/horseface.png'>",
         ":horseprancing:":"<img class='emoji' src='https://e.kidz.cloud/prancinghorse.png'>",
         ":turt:":"<img class='emoji' src='https://e.kidz.cloud/emoji_u1f422.png'>"
-}
+]
